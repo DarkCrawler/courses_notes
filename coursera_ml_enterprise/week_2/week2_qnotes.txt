@@ -1,0 +1,16 @@
+week 2 notes :
+
+prediction and monitoring section :
+
+lib: git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+
+In the notebook interface, navigate to training-data-analyst > courses > machine_learning > deepdive2 > machine_learning_in_the_enterprise > labs, and open sdk_custom_tabular_regression_online_explain.ipynb.
+
+refer : https://github.com/googleapis/python-aiplatform/blob/HEAD/samples/model-builder/custom_training_job_sample.py to create a custom training job via the SDK
+
+For model monitoring:
+
+In the notebook interface, navigate to training-data-analyst > courses > machine_learning > deepdive2 > machine_learning_in_the_enterprise > labs, and open model_monitoring.ipynb.
+(git clone https://github.com/GoogleCloudPlatform/training-data-analyst)
+
+
